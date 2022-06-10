@@ -1,0 +1,128 @@
+[
+    {
+        "stack": [
+            16,
+            161,
+            2,
+            3,
+            4,
+            5,
+            71
+        ],
+        "salary": "€200-250K",
+        "location": "Remoto 100% o Madrid",
+        "members": [
+            {
+                "role": "Tech Lead",
+                "roleType": "leadership",
+                "experience": "10+ years of experience"
+            },
+            {
+                "role": "Senior SRE",
+                "roleType": "systems",
+                "experience": "5-10 years of experience"
+            },
+            {
+                "role": "Mid-level Backend Developer",
+                "roleType": "backend",
+                "experience": "2-5 years of experience"
+            },
+            {
+                "role": "Mid-level UX Desiger",
+                "roleType": "design",
+                "experience": "2-5 years of experience"
+            },
+            {
+                "role": "Junior Frontend Developer",
+                "roleType": "frontend",
+                "experience": "<2 years of experience"
+            },
+            {
+                "role": "Mid-level Backend Developer",
+                "roleType": "backend",
+                "experience": "2-5 years of experience"
+            },
+            {
+                "role": "Mid-level UX Desiger",
+                "roleType": "design",
+                "experience": "2-5 years of experience"
+            },
+            {
+                "role": "Junior Frontend Developer",
+                "roleType": "frontend",
+                "experience": "<2 years of experience"
+            }
+        ],
+        "typeformCode": "EQUIPO1"
+    },
+    {
+        "stack": [
+            16,
+            161,
+            2
+        ],
+        "salary": "€200-260K",
+        "location": "Remoto 100% o Madrid",
+        "members": [
+            {
+                "role": "Tech Lead",
+                "roleType": "leadership",
+                "experience": "10+ years of experience"
+            },
+            {
+                "role": "Senior SRE",
+                "roleType": "systems",
+                "experience": "5-10 years of experience"
+            },
+            {
+                "role": "Mid-level Backend Developer",
+                "roleType": "backend",
+                "experience": "2-5 years of experience"
+            },
+            {
+                "role": "Mid-level UX Desiger",
+                "roleType": "design",
+                "experience": "2-5 years of experience"
+            }
+        ],
+        "typeformCode": "EQUIPO1"
+    },
+    {
+        "stack": [
+            16,
+            161,
+            18,
+            161
+        ],
+        "salary": "€200-260K",
+        "location": "Remoto 100% o Madrid",
+        "members": [
+            {
+                "role": "Tech Lead",
+                "roleType": "leadership",
+                "experience": "10+ years of experience"
+            },
+            {
+                "role": "Senior SRE",
+                "roleType": "systems",
+                "experience": "5-10 years of experience"
+            },
+            {
+                "role": "Mid-level Backend Developer",
+                "roleType": "backend",
+                "experience": "2-5 years of experience"
+            },
+            {
+                "role": "Mid-level UX Desiger",
+                "roleType": "design",
+                "experience": "2-5 years of experience"
+            },
+            {
+                "role": "Junior Frontend Developer",
+                "roleType": "frontend",
+                "experience": "<2 years of experience"
+            }
+        ],
+        "typeformCode": "EQUIPO1"
+    }
+]
