@@ -41,5 +41,36 @@
             }
         ],
         "typeformCode": "EQUIPO1"
+    },
+    {
+        "stack": [
+            17,
+            16,
+            282,
+            71,
+            14,
+            197,
+            138            
+        ],
+        "salary": "€155-165K",
+        "location": "100% Remote",
+        "members": [
+            {
+                "role": "Senior Frontend",
+                "roleType": "fronted",
+                "experience": "10+ years of experience"
+            },
+            {
+                "role": "Senior Frontend",
+                "roleType": "fronted",
+                "experience": "10+ years of experience"
+            },
+            {
+                "role": "Mid-level QA",
+                "roleType": "misc",
+                "experience": "2-5 years of experience"
+            }           
+        ],
+        "typeformCode": "EQUIPO2"
     }
 ]
