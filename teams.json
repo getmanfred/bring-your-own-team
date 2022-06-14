@@ -72,5 +72,101 @@
             }           
         ],
         "typeformCode": "EQUIPO2"
+    },
+    {
+        "stack": [
+            7,
+            74,
+            4,
+            28,
+            14,
+            17,
+            29
+        ],
+        "salary": "€155-165K",
+        "location": "100% Remote",
+        "members": [
+            {
+                "role": "Director of engineering",
+                "roleType": "leadership",
+                "experience": "10+ years of experience"
+            },
+            {
+                "role": "Senior DevOps Engineer",
+                "roleType": "systems",
+                "experience": "10+ years of experience"
+            },
+            {
+                "role": "Senior DevOps Engineer",
+                "roleType": "systems",
+                "experience": "10+ years of experience"                
+            },
+            {
+                "role": "Senior Backend Developer",
+                "roleType": "backend",
+                "experience": "10+ years of experience"                
+            },
+            {
+                "role": "Senior Full-Stack Developer",
+                "roleType": "misc",
+                "experience": "10+ years of experience"                
+            },
+            {
+                "role": "Senior Mobile Developer",
+                "roleType": "mobile",
+                "experience": "10+ years of experience"                
+            },
+            {
+                "role": "Senior Full-Stack Developer",
+                "roleType": "misc",
+                "experience": "10+ years of experience"                
+            },
+            {
+                "role": "Engineering Manager",
+                "roleType": "leadership",
+                "experience": "10+ years of experience"                
+            },
+            {
+                "role": "Full-Stack Developer",
+                "roleType": "misc",
+                "experience": "2-5 years of experience"                
+            },
+            {
+                "role": "Full-Stack Developer",
+                "roleType": "misc",
+                "experience": "5-10 years of experience"                
+            },
+            {
+                "role": "Frontend Developer",
+                "roleType": "frontend",
+                "experience": "5-10 years of experience"                
+            },
+            {
+                "role": "Mobile Developer",
+                "roleType": "frontend",
+                "experience": "1-2 years of experience"                
+            },
+            {
+                "role": "Product Manager",
+                "roleType": "productmgmt",
+                "experience": "5-10 years of experience"                
+            },
+            {
+                "role": "Product Owner",
+                "roleType": "productmgmt",
+                "experience": "2-5 years of experience"                
+            },
+            {
+                "role": "UX/UI Designer",
+                "roleType": "design",
+                "xperience": "10+ years of experience"                
+            },
+            {
+                "role": "Senior QA",
+                "roleType": "data",
+                "experience": "10+ years of experience"                
+            }
+        ],
+        "typeformCode": "EQUIPO3"
     }
 ]
