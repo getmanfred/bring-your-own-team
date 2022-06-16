@@ -201,5 +201,35 @@
             }  
         ],
         "typeformCode": "EQUIPO4"
+    },
+    {
+        "stack": [
+            1,
+            3,
+            112,
+            52,
+            28,
+            18
+        ],
+        "salary": "€240K",
+        "location": "100% Remote",
+        "members": [
+            {
+                "role": "Tech Lead",
+                "roleType": "leadership",
+                "experience": "5-10 years of experience"
+            },
+            {
+                "role": "Senior Backend Developer",
+                "roleType": "backend",
+                "experience": "+10 years of experience"
+            },
+            {
+                "role": "Senior Frontend Developer",
+                "roleType": "frontend",
+                "experience": "5-10 years of experience"
+            }
+        ],
+        "typeformCode": "EQUIPO5"
     }
 ]
