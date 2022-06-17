@@ -231,5 +231,49 @@
             }
         ],
         "typeformCode": "EQUIPO5"
+    },
+    {
+        "stack": [
+            14,
+            71,
+            16,
+            17,
+            18
+        ],
+        "salary": "€220-240K",
+        "location": "100% Remote",
+        "members": [
+            {
+                "role": "Tech Lead",
+                "roleType": "leadership",
+                "experience": "+10 years of experience"
+            },
+            {
+                "role": "Mid-Level Full-Stack Developer",
+                "roleType": "backend",
+                "experience": "2-5 years of experience"
+            },
+            {
+                "role": "Mid-Level Full-Stack Developer",
+                "roleType": "backend",
+                "experience": "2-5 years of experience"
+            },
+            {
+                "role": "Mid-Level Full-Stack Developer",
+                "roleType": "backend",
+                "experience": "2-5 years of experience"
+            },
+                        {
+                "role": "Junior Full-Stack Developer",
+                "roleType": "backend",
+                "experience": "<2 years of experience"
+            },
+            {
+                "role": "Junior Full-Stack Developer",
+                "roleType": "backend",
+                "experience": "<2 years of experience"
+            }
+        ],
+        "typeformCode": "EQUIPO6"
     }
 ]
