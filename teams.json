@@ -274,6 +274,34 @@
                 "experience": "<2 years of experience"
             }
         ],
-        "typeformCode": "EQUIPO6"
+        "typeformCode": "EQUIPO7"
+    },
+    {
+        "stack": [
+            26,
+            79,
+            16,
+            17
+        ],
+        "salary": "€160K",
+        "location": "100% Remote",
+        "members": [
+            {
+                "role": "Senior Backend Developer",
+                "roleType": "leadership",
+                "experience": "+10 years of experience"
+            },
+            {
+                "role": "Senior Backend Developer",
+                "roleType": "backend",
+                "experience": "5-10 years of experience"
+            },
+            {
+                "role": "Senior Backend Developer",
+                "roleType": "backend",
+                "experience": "5-10 years of experience"
+            }
+        ],
+        "typeformCode": "EQUIPO7"
     }
 ]
