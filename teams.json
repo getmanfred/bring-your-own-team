@@ -304,5 +304,41 @@
             }
         ],
         "typeformCode": "EQUIPO7"
+    },
+    ,
+    {
+        "stack": [
+            26,
+            14,
+            1,
+            17,
+            28,
+            37
+        ],
+        "salary": "€200K",
+        "location": "100% Remote or Mexico",
+        "members": [
+            {
+                "role": "Senior Full-stack Developer",
+                "roleType": "frontend",
+                "experience": "5-10 years of experience"
+            },
+            {
+                "role": "Senior Backend Developer | DevOps",
+                "roleType": "backend",
+                "experience": "5-10 years of experience"
+            },
+            {
+                "role": "Senior Full-Stack Developer | DevOps",
+                "roleType": "frontend",
+                "experience": "5-10 years of experience"
+            },
+            {
+                "role": "Senior Full-Stack Developer | DevOps",
+                "roleType": "frontend",
+                "experience": "5-10 years of experience"
+            }
+        ],
+        "typeformCode": "EQUIPO8"
     }
 ]
