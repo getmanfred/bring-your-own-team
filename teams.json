@@ -1,47 +1,4 @@
-[
-    {
-        "stack": [
-            1,
-            3,
-            18,
-            28
-        ],
-        "salary": "€210-220K",
-        "location": "100% Remote",
-        "members": [
-            {
-                "role": "Tech Lead",
-                "roleType": "leadership",
-                "experience": "10+ years of experience"
-            },
-            {
-                "role": "Senior Backend Developer",
-                "roleType": "backend",
-                "experience": "10+ years of experience"
-            },
-            {
-                "role": "Senior Backend Developer",
-                "roleType": "backend",
-                "experience": "10+ years of experience"
-            },
-            {
-                "role": "Senior Frontend Developer",
-                "roleType": "frontend",
-                "experience": "10+ years of experience"
-            },
-            {
-                "role": "Full-stack developer",
-                "roleType": "full-stack",
-                "experience": "5-10 years of experience"
-            },
-            {
-                "role": "Mid-level Backend Developer",
-                "roleType": "backend",
-                "experience": "5-10 years of experience"
-            }
-        ],
-        "typeformCode": "EQUIPO1"
-    },
+[    
     {
         "stack": [
             17,
