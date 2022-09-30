@@ -221,5 +221,34 @@
             }
         ],
         "typeformCode": "EQUIPO9"
+    },    
+    {
+        "stack": [
+            24,
+            26,
+            91,
+            1,
+            479            
+        ],
+        "salary": "€110K",
+        "location": "100% Remote or Murcia",
+        "members": [
+            {
+                "role": "Backend Developer",
+                "roleType": "leadership",
+                "experience": "2-5 of experience"
+            },
+            {
+                "role": "Backend Developer",
+                "roleType": "backend",
+                "experience": "2-5 years of experience"
+            },
+            {
+                "role": "Backend Developer",
+                "roleType": "backend",
+                "experience": "2-5 years of experience"
+            }
+        ],
+        "typeformCode": "TEAM 20"
     }
 ]
