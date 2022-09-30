@@ -129,39 +129,6 @@
     {
         "stack": [
             1,
-            12,
-            18,
-            17
-        ],
-        "salary": "€150-155K",
-        "location": "100% Remote",
-        "members": [
-            {
-                "role": "Tech Lead",
-                "roleType": "leadership",
-                "experience": "10+ years of experience"
-            },
-            {
-                "role": "DevOps",
-                "roleType": "systems",
-                "experience": "2-5 years of experience"
-            },
-            {
-                "role": "Senior Backend Developer",
-                "roleType": "backend",
-                "experience": "5-10 years of experience"
-            },
-            {
-                "role": "Frontend Developer",
-                "roleType": "frontend",
-                "experience": "5-10 years of experience"
-            }  
-        ],
-        "typeformCode": "EQUIPO4"
-    },
-    {
-        "stack": [
-            1,
             3,
             112,
             52,
