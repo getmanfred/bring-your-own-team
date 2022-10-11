@@ -1,4 +1,40 @@
 [    
+       {
+        "stack": [
+           18,
+           14,
+           16,
+           71,
+           34,
+           33,
+           17
+        ],
+        "salary": "€180-190K",
+        "location": "100% Remote",
+        "members": [
+            {
+                "role": "Tech Lead",
+                "roleType": "leadership",
+                "experience": "10+ years of experience"
+            },
+            {
+                "role": "Full-stack Developer",
+                "roleType": "backend",
+                "experience": "2-5 years of experience"
+            },
+            {
+                "role": "Full-stack Developer",
+                "roleType": "backend",
+                "experience": "2-5+ years of experience"
+            },
+            {
+                "role": "Full-stack Developer",
+                "roleType": "backend",
+                "experience": "2-5+ years of experience"
+            }   
+        ],
+        "typeformCode": "TEAM 23"
+     },
      {
         "stack": [
            55,
