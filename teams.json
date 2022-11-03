@@ -1,4 +1,48 @@
 [    
+        {
+        "stack": [           
+           17,
+           7,
+           8,
+           28,
+           80  
+        ],
+        "salary": "€400-450K",
+        "location": "100% Remote",
+        "members": [
+            {
+                "role": "Engineering Manager",
+                "roleType": "leadership",
+                "experience": "10+ years of experience"
+            },
+            {
+                "role": "Tech Lead",
+                "roleType": "leadership",
+                "experience": "10+ years of experience"
+            },
+            {
+                "role": " Senior Backend",
+                "roleType": "backend",
+                "experience": "10+ years of experience"
+            },
+            {
+                "role": "Senior Frontend",
+                "roleType": "frontend",
+                "experience": "10+ years of experience"
+            },             
+            {
+                "role": "Senior DevOps",
+                "roleType": "systems",
+                "experience": "10+ years of experience"
+            },             
+            {
+                "role": " Mid-level Fullstack",
+                "roleType": "frontend",
+                "experience": "2-5 years of experience"
+            }
+        ],
+        "typeformCode": "TEAM 21"
+     },
        {
         "stack": [
            18,
