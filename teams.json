@@ -1,4 +1,38 @@
 [    
+          {
+        "stack": [           
+           17,
+           14,
+           88,
+           71,
+           33  
+        ],
+        "salary": "€100-110K",
+        "location": "100% Remote",
+        "members": [
+            {
+                "role": "Mid-level backend",
+                "roleType": "backend developer",
+                "experience": "2-5+ years of experience"
+            },
+            {
+                "role": "Mid-level frontend",
+                "roleType": "frontend developer",
+                "experience": "2-5 years of experience"
+            },
+            {
+                "role": " Junior backend",
+                "roleType": "backend",
+                "experience": "1-2 years of experience"
+            },
+            {
+                "role": "Junior Frontend",
+                "roleType": "frontend",
+                "experience": "1-2 years of experience"
+            }
+        ],
+        "typeformCode": "TEAM 24"
+        },
         {
         "stack": [           
            17,
