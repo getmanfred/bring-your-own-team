@@ -268,5 +268,40 @@
             }
         ],
         "typeformCode": "EQUIPO9"
+    },    
+    {
+        "stack": [
+            4,
+            13,      
+            1,
+            53,
+            52,
+            10
+        ],
+        "salary": "€400K",
+        "location": "100% Remote",
+        "members": [
+            {
+                "role": "Tech Lead",
+                "roleType": "leadership",
+                "experience": "+10 years of experience"
+            },
+            {
+                "role": "Tech Lead",
+                "roleType": "leadership",
+                "experience": "+10 years of experience"
+            },
+            {
+                "role": "Tech Lead",
+                "roleType": "leadership",
+                "experience": "+10 years of experience"
+            },
+            {
+                "role": "Tech Lead",
+                "roleType": "leadership",
+                "experience": "+10 years of experience"
+            }
+        ],
+        "typeformCode": "EQUIPO25"
     }
 ]
